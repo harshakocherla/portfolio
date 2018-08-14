@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harshakocherla/github.io/portfolio/",
+  "homepage": "https://harshakocherla.github.io/portfolio/",
   "dependencies": {
     "animated": "^0.2.2",
     "bootstrap": "^4.1.3",
